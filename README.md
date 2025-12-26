@@ -108,6 +108,12 @@ Tkinter is usually included with Python by default.
 
 ## ▶️ CLI Usage (Non‑Graphical Mode) | نحوه استفاده غیر گرافیکی
 
+### CLS | محیط غیر گرافیکی
+
+```bash
+python localrecon.py --cls
+```
+
 ### Quick Scan | اسکن سریع
 
 ```bash
@@ -186,3 +192,4 @@ LocalRecon دیدی شفاف و حرفه‌ای از وضعیت سیستم ار�
 ---
 
 © Educational / Defensive Security Tool
+
