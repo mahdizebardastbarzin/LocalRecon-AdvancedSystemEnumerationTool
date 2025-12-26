@@ -4,6 +4,9 @@
 LocalRecon
 Advanced CLI-Based System Enumeration Tool
 Educational / Defensive Security Use
+Powered by | Engineer Mahdi Zebardast Barzin
+github | https://github.com/mahdizebardastbarzin
+
 """
 
 import os
@@ -1108,4 +1111,5 @@ def main():
         output_results(args)
 
 if __name__ == "__main__":
+
     main()
