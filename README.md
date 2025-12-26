@@ -114,7 +114,7 @@ Tkinter is usually included with Python by default.
 ### CLS | محیط غیر گرافیکی
 
 ```bash
-python localrecon.py --cls
+python localrecon.py --cli
 ```
 
 ### Quick Scan | اسکن سریع
@@ -195,6 +195,7 @@ LocalRecon دیدی شفاف و حرفه‌ای از وضعیت سیستم ار�
 ---
 
 © Educational / Defensive Security Tool
+
 
 
 
